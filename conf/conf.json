@@ -1,0 +1,19 @@
+{
+  "width": 6,
+  "height": 6,
+  "title": "Game of life",
+  "zoom": 50,
+  "deadColor": "White",
+  "livingColor": "Cyan",
+  "backgroundColor": "Red",
+  "timeStep": 0.5,
+  "kindOfCell": "GameOfLive",
+  "start": [
+    [0,0,0,0,0,0],
+    [0,0,0,0,0,0],
+    [0,0,1,1,0,0],
+    [0,0,1,1,0,0],
+    [0,0,0,0,0,0],
+    [0,0,0,0,0,0]
+  ]
+}
